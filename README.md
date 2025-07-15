@@ -8,7 +8,7 @@ I'm into:
 - 🕹️ **Game Development** — building concepts, mechanics, and pixel-perfect fun  
 - 📼 **Retro & Minimalist Themes** — less clutter, more character; a love for nostalgia and clarity  
 - 📈 **Business-Oriented Thinking** — mixing creativity with strategy, from digital branding to monetization  
-- 💅 **DIY Beauty & Restoration** — nail art, caffeine scrubs, shoe revamps with a personal twist  
+- 💅 **DIY Beauty & Restoration** — nail art, natural mask, shoe revamps with a personal twist  
 - 🌐 **Indie Web Exploration** — Neocities, customization, and web flair that screams “you”
 - 🍜 **Mie Ayam** — Why not?
 
