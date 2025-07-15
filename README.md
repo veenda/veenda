@@ -1,27 +1,61 @@
-## 👋 Hello, I'm Veenda Putri Divo!
+# 👋 Hello, I'm Veenda Putri Divo!
 ![Profile views](https://komarev.com/ghpvc/?username=veenda&color=brightgreen&label=PROFILE+VIEWS)
 
-# I'm into
+## Interest
+
+I'm into:
 - 🎨 **Web Design & Programming** — crafting clean layouts, UX flow, and playful interactivity  
 - 🕹️ **Game Development** — building concepts, mechanics, and pixel-perfect fun  
 - 📼 **Retro & Minimalist Themes** — less clutter, more character; a love for nostalgia and clarity  
 - 📈 **Business-Oriented Thinking** — mixing creativity with strategy, from digital branding to monetization  
 - 💅 **DIY Beauty & Restoration** — nail art, caffeine scrubs, shoe revamps with a personal twist  
 - 🌐 **Indie Web Exploration** — Neocities, customization, and web flair that screams “you”
+- 🍜 **Mie Ayam** - Why not?
 
-## 🛠️ Languages I Code In
+## Languages
+
+I can code in:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+      </p>
+
+## Tools
+
+I can code with:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 </p>
 
-## 💖 Support Me
+# 📫 Reach Me
+
+Find me here:
+
+<p align="center">
+  <a href="https://www.instagram.com/veenda_05" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/veenda" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:divoveenda@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+# 💖 Support Me
+
+Buy me Mie Ayam
 
 <a href="https://www.nihbuatjajan.com/veenda" target="_blank"><img loading="lazy" src="https://d4xyvrfd64gfm.cloudfront.net/buttons/default-cta.png" alt="Nih buat jajan" style="height: 51px !important;" ></a>
