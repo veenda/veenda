@@ -10,7 +10,7 @@ I'm into:
 - 📈 **Business-Oriented Thinking** — mixing creativity with strategy, from digital branding to monetization  
 - 💅 **DIY Beauty & Restoration** — nail art, caffeine scrubs, shoe revamps with a personal twist  
 - 🌐 **Indie Web Exploration** — Neocities, customization, and web flair that screams “you”
-- 🍜 **Mie Ayam** - Why not?
+- 🍜 **Mie Ayam** — Why not?
 
 ## Languages
 
