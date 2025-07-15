@@ -40,7 +40,7 @@ I can code with:
 
 # 📫 Reach Me
 
-Find me here:
+Contact person
 
 <p align="center">
   <a href="https://www.instagram.com/veenda_05" target="_blank">
@@ -58,4 +58,6 @@ Find me here:
 
 Buy me Mie Ayam
 
-<a href="https://www.nihbuatjajan.com/veenda" target="_blank"><img loading="lazy" src="https://d4xyvrfd64gfm.cloudfront.net/buttons/default-cta.png" alt="Nih buat jajan" style="height: 51px !important;" ></a>
+<p align="center">
+  <a href="https://www.nihbuatjajan.com/veenda" target="_blank"><img loading="lazy" src="https://d4xyvrfd64gfm.cloudfront.net/buttons/default-cta.png" alt="Nih buat jajan" style="height: 51px !important;" ></a>
+</p>
