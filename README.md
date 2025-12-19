@@ -61,3 +61,16 @@ Buy me Mie Ayam
 <p align="center">
   <a href="https://www.nihbuatjajan.com/veenda" target="_blank"><img loading="lazy" src="https://d4xyvrfd64gfm.cloudfront.net/buttons/default-cta.png" alt="Nih buat jajan" style="height: 51px !important;" ></a>
 </p>
+
+# Stat
+<p align="center">
+        
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veenda&theme=default&show_icons=true&hide_border=true&count_private=true) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=veenda&theme=default&show_icons=true&hide_border=true&layout=compact)
+        
+</p>
+<p align="center">
+        
+![GitHub Stats](https://streak-stats.demolab.com?user=veenda&theme=default&hide_border=true)
+        
+</p>
