@@ -5,11 +5,9 @@
 
 I'm into:
 - 🎨 **Web Design & Programming** — crafting clean layouts, UX flow, and playful interactivity  
-- 🕹️ **Game Development** — building concepts, mechanics, and pixel-perfect fun  
-- 📼 **Retro & Minimalist Themes** — less clutter, more character; a love for nostalgia and clarity  
-- 📈 **Business-Oriented Thinking** — mixing creativity with strategy, from digital branding to monetization  
-- 💅 **DIY Beauty & Restoration** — nail art, natural mask, shoe revamps with a personal twist  
-- 🌐 **Indie Web Exploration** — Neocities, customization, and web flair that screams “you”
+- 🕹️ **Game Development** — building stories, indie, and pixel art  
+- 📼 **Retro & Minimalist Themes** — less clutter, more character
+- 📈 **Business-Oriented Thinking** — anything can be money, yknow...
 - 🍜 **Mie Ayam** — Why not?
 
 ## Languages
